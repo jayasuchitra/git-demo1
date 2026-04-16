@@ -1,1 +1,2 @@
 "hello git"
+"learing git is fun"
